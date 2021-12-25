@@ -1,0 +1,8 @@
+ocms: v1
+kind: lab
+name: Liberation Circuit
+url: github.com/oglinuk/lab-liberation-circuit
+issues: github.com/oglinuk/lab-liberation-circuit/issues
+version: v0.0.1
+lang: en
+levels: [ PROGRAMMING(I), DOCKER(I) ]
